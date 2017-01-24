@@ -8,3 +8,7 @@ img {
       border-color: #997b93;
       border-radius: 20px;
 }
+ul {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+    }
