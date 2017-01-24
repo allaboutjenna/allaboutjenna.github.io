@@ -1,11 +1,9 @@
  body {
       text-align: center;
-      color: #332931;
-  background:#332931;
+      color: #ffcdf5;
+  background-color: #332931;
     }
-    a {
-      color: #ffcdf5
-    }
+  
     h1 {
       font-size: 70px;
     }
