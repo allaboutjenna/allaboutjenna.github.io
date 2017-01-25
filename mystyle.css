@@ -21,6 +21,14 @@
       padding: 20px;
       margin: 0 auto;
     }
+    .links {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+     }
+   .cheer {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+   }
     @media (max-width: 500px) {
       h1 {
         font-size: 36px;
@@ -30,8 +38,5 @@
         padding: 5px;
         display: block;
       }
-     .links {
-      display: inline;
-      padding: 0px 10px 0px 10px;
-     }
+ 
 
