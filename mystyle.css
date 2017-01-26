@@ -8,9 +8,10 @@
       font-size: 70px;
     }
     img {
-      border-style:solid;
-      border-width:40px;
-      border-color:#997b93;
+      border-style: solid;
+      border-width: 40px;
+      border-color: #997b93;
+      margin: 40px 0px 0px 0px;
     }
     ul {
       padding: 10px;
